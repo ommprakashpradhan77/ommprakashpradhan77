@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ommprakash Pradhan
 
-**Full Stack Developer | AI Enthusiast | Student**
+**Full Stack Developer | AI Enthusiast | Btech Student**
 
 📍 Odisha, India | 💡 Passionate about building AI systems, scalable web applications, and modern digital products.
 
