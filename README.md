@@ -1,10 +1,15 @@
+
 # 👋 Hi, I'm Omm Prakash Pradhan
 
-### Full-Stack Developer • AI Enthusiast • B.Tech CSE Student
+### Full-Stack Developer | AI Enthusiast | B.Tech CSE Student
 
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Developing+modern+full-stack+solutions;Exploring+Generative+AI+%26+Machine+Learning;Turning+ideas+into+real-world+products" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://github.com/ommprakashpradhan77">
-    <img src="https://komarev.com/ghpvc/?username=ommprakashpradhan77&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=ommprakashpradhan77&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   </a>
 </p>
 
@@ -12,52 +17,66 @@
 
 ## 🚀 About Me
 
-I'm a **B.Tech Computer Science Engineering student** passionate about building
-**AI-powered applications, scalable web platforms, and practical software solutions.**
+I'm a **B.Tech Computer Science Engineering student** passionate about
+building **AI-powered applications, modern web platforms, and practical
+software solutions**.
 
-- 🔭 Currently building **AI-powered and full-stack applications**
-- 🤖 Exploring **Generative AI, Machine Learning & intelligent applications**
-- 💻 Developing modern web applications using **React, Node.js & Python**
-- 🌱 Strengthening my knowledge of **Cloud Computing, Distributed Systems & System Design**
-- 🧠 Interested in **AI, Backend Development & Software Engineering**
-- 🎯 Goal: Become a strong **AI & Software Engineer** and build impactful real-world products
-- 📍 Odisha, India
+I enjoy working across the stack — from designing responsive interfaces
+to developing backend APIs and integrating intelligent AI capabilities.
+
+### ⚡ What I'm Focused On
+
+| 💻 Development | 🤖 Artificial Intelligence |
+|---|---|
+| Full-Stack Web Applications | Generative AI |
+| Backend Development | Machine Learning |
+| REST APIs & Databases | AI-powered Applications |
+| Cloud & Deployment | Intelligent Automation |
+
+### 🎯 Currently
+
+- 🔭 Building **AI-powered & full-stack applications**
+- 🧠 Exploring **Generative AI, Machine Learning & LLM applications**
+- ⚙️ Strengthening **Backend Development, Cloud Computing & System Design**
+- 📚 Continuously learning by building **real-world projects**
+- 🎯 Working toward becoming a **strong AI & Software Engineer**
+- 📍 **Odisha, India**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c" />
 </p>
 
-### Frontend Development
+### 🌐 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
-### Backend Development
+### ⚙️ Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
-### Databases
+### 🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
-### AI / Machine Learning
+### 🤖 AI / Machine Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
-### Tools & Platforms
+### 🔧 Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,netlify" />
@@ -65,17 +84,16 @@ I'm a **B.Tech Computer Science Engineering student** passionate about building
 
 ---
 
-## 💡 What I Build
+## 💡 My Development Philosophy
 
-| Area | Focus |
-|------|-------|
-| 🌐 Full-Stack Development | Modern, responsive web applications |
-| 🤖 Artificial Intelligence | AI-powered tools and intelligent applications |
-| 🧠 Machine Learning | Practical ML models and prediction systems |
-| ⚙️ Backend Engineering | APIs, databases and server-side applications |
-| ☁️ Cloud & Deployment | Deploying and maintaining web applications |
+> **Learn continuously. Build practically. Solve real problems.**
+
+I believe the best way to grow as a developer is to **learn by building,
+experiment with new technologies, and turn ideas into useful products.**
 
 ---
+
+
 
 ## 🚀 Featured Projects
 
