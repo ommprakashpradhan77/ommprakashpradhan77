@@ -1,20 +1,11 @@
 
 <p align="center">
-  <img src="./profile-banner.png" alt="Omm Prakash Pradhan - Full Stack Developer & AI Enthusiast" width="100%">
+  <img
+    src="./profile-banner.png"
+    alt="Omm Prakash Pradhan - Full Stack Developer & AI Enthusiast"
+    width="100%"
+  />
 </p>
-
-<h1 align="center">
-  Hi, I'm Omm Prakash Pradhan 👋
-</h1>
-
-<p align="center">
-  <strong>Full-Stack Developer • AI Enthusiast • B.Tech CSE Student</strong>
-</p>
-
-<p align="center">
-  Building AI-powered applications • Full-Stack Web Development • Continuous Learning
-</p>
-
 ---
 
 
