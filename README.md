@@ -1,180 +1,67 @@
+<div align="center">
 
-<p align="center">
-  <img
-    src="./profile-banner.png"
-    alt="Omm Prakash Pradhan - Full Stack Developer & AI Enthusiast"
-    width="100%"
-  />
-</p>
----
+# 👋 Hi, I'm **Omm Prakash Pradhan**
 
+### 💻 Full-Stack Developer &nbsp;•&nbsp; 🤖 AI Enthusiast &nbsp;•&nbsp; 🎓 B.Tech CSE Student
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Developing+modern+full-stack+solutions;Exploring+Generative+AI+%26+Machine+Learning;Turning+ideas+into+real-world+products" alt="Typing SVG" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Full-Stack+Web+Developer;Exploring+Generative+AI+%26+Machine+Learning;Turning+Ideas+Into+Real-World+Products" />
 </p>
 
-<p align="center">
+<p>
   <a href="https://github.com/ommprakashpradhan77">
-    <img src="https://komarev.com/ghpvc/?username=ommprakashpradhan77&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=ommprakashpradhan77&label=Profile%20Views&color=0e75b6&style=flat-square" />
   </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-8A2BE2?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-00BFFF?style=flat-square" />
 </p>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **B.Tech Computer Science Engineering student** passionate about
-building **AI-powered applications, modern web platforms, and practical
-software solutions**.
+<table>
+<tr>
+<td width="55%">
 
-I enjoy working across the stack — from designing responsive interfaces
-to developing backend APIs and integrating intelligent AI capabilities.
+### 👨‍💻 Who I Am
 
-### ⚡ What I'm Focused On
+I'm a **B.Tech Computer Science Engineering student** passionate about building **AI-powered applications, modern web platforms, and practical software solutions**.
 
-| 💻 Development | 🤖 Artificial Intelligence |
-|---|---|
-| Full-Stack Web Applications | Generative AI |
-| Backend Development | Machine Learning |
-| REST APIs & Databases | AI-powered Applications |
-| Cloud & Deployment | Intelligent Automation |
+I enjoy turning ideas into working products by combining **software development, backend engineering, and artificial intelligence**.
 
-### 🎯 Currently
+</td>
 
-- 🔭 Building **AI-powered & full-stack applications**
-- 🧠 Exploring **Generative AI, Machine Learning & LLM applications**
-- ⚙️ Strengthening **Backend Development, Cloud Computing & System Design**
-- 📚 Continuously learning by building **real-world projects**
-- 🎯 Working toward becoming a **strong AI & Software Engineer**
-- 📍 **Odisha, India**
+<td width="45%">
 
----
+### 🎯 Current Focus
 
-## 🛠️ Tech Stack
+🔹 Full-Stack Development  
+🔹 Backend Engineering  
+🔹 Generative AI  
+🔹 Machine Learning  
+🔹 LLM Applications  
+🔹 Cloud & System Design  
 
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c" />
-</p>
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,netlify" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 💡 My Development Philosophy
-
-> **Learn continuously. Build practically. Solve real problems.**
-
-I believe the best way to grow as a developer is to **learn by building,
-experiment with new technologies, and turn ideas into useful products.**
-
----
-
-
-
-## 🚀 Featured Projects
-
-### 🤖 AI Tender Evaluation System
-AI-powered system designed to analyze and evaluate tender documents using intelligent
-document processing and automated analysis.
-
-**Tech:** Python • AI/ML • NLP • FastAPI
-
----
-
-### 📚 AI Study Buddy
-An AI-powered learning assistant designed to help students create study plans,
-ask questions, summarize documents and learn more efficiently.
-
-**Tech:** Python • FastAPI • RAG • LLM • Flutter
-
----
-
-### 🌐 Full-Stack Portfolio
-A personal developer portfolio showcasing my projects, skills, experience and
-technical journey.
-
-**Tech:** React • Node.js • MongoDB
-
----
-
-### 🍎 Smart Food Analyzer
-A web-based application focused on food analysis with features such as
-fruit ripeness detection, expiry estimation, nutrition information and
-camera-based analysis.
-
-**Tech:** HTML • CSS • JavaScript • AI/ML
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ommprakashpradhan77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ommprakashpradhan77&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ommprakashpradhan77&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements & Experience
-
-- 💼 **FlyRank Internship** — Worked on real-world development and AI-related tasks
-- 🤖 Completed **AI / Generative AI learning programs**
-- 🧑‍💻 Building and deploying full-stack applications
-- 📚 Continuously learning modern software engineering technologies
-- 🚀 Participating in technical projects, assignments and development challenges
-
----
-
-## 🎯 Current Focus
+## ⚡ What I'm Doing Now
 
 ```text
-Full-Stack Development
-        ↓
-Backend Engineering
-        ↓
-Generative AI
-        ↓
-Machine Learning
-        ↓
-AI-Powered Applications
-        ↓
-Scalable Software Systems
+💻 Building       →  Full-Stack & AI Applications
+
+🤖 Exploring      →  Generative AI • LLMs • Machine Learning
+
+⚙️ Improving      →  Backend Development • APIs • Databases
+
+☁️ Learning       →  Cloud Computing • Distributed Systems
+
+🎯 Goal           →  Become a Strong AI & Software Engineer
