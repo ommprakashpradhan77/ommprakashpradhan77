@@ -1,7 +1,23 @@
 
-# 👋 Hi, I'm Omm Prakash Pradhan
+<p align="center">
+  <img src="./profile-banner.png" alt="Omm Prakash Pradhan - Full Stack Developer & AI Enthusiast" width="100%">
+</p>
 
-### Full-Stack Developer | AI Enthusiast | B.Tech CSE Student
+<h1 align="center">
+  Hi, I'm Omm Prakash Pradhan 👋
+</h1>
+
+<p align="center">
+  <strong>Full-Stack Developer • AI Enthusiast • B.Tech CSE Student</strong>
+</p>
+
+<p align="center">
+  Building AI-powered applications • Full-Stack Web Development • Continuous Learning
+</p>
+
+---
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Developing+modern+full-stack+solutions;Exploring+Generative+AI+%26+Machine+Learning;Turning+ideas+into+real-world+products" alt="Typing SVG" />
