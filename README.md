@@ -1,29 +1,26 @@
 
 <div align="center">
 
-<!-- Premium animated title -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=👋%20Hi,%20I'm%20Omm%20Prakash%20Pradhan&fontSize=38&fontAlignY=50&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20B.Tech%20CSE%20Student&descSize=18&descAlignY=78&descColor=C9D1D9&width=1100&height=150" />
+<!-- ═══════════════ PREMIUM HERO ═══════════════ -->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Omm%20Prakash%20Pradhan&fontSize=46&fontAlignY=42&fontColor=FFFFFF&font=Montserrat&desc=Full-Stack%20Developer%20%20%7C%20%20AI%20Enthusiast%20%20%7C%20%20B.Tech%20CSE%20Student&descSize=19&descAlignY=67&descColor=E2E8F0&color=0:020617,35:0F172A,65:312E81,100:7C3AED&animation=twinkling"
+  width="100%"
+  alt="Omm Prakash Pradhan"
+/>
 
 <br>
 
-<!-- Interactive-looking role cards -->
-<a href="#">
-<img src="https://img.shields.io/badge/💻_FULL--STACK_DEVELOPER-0D1117?style=for-the-badge&logoColor=58A6FF" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://img.shields.io/badge/🤖_AI_ENTHUSIAST-0D1117?style=for-the-badge&logoColor=A855F7" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://img.shields.io/badge/🎓_B.TECH_CSE_STUDENT-0D1117?style=for-the-badge&logoColor=22C55E" />
-</a>
+<!-- Animated identity line -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=700&height=35&lines=Building+AI-Powered+Applications+%E2%9A%A1;Creating+Modern+Full-Stack+Experiences+%F0%9F%92%BB;Exploring+Generative+AI+%26+Machine+Learning+%F0%9F%A4%96"
+  alt="Currently building"
+/>
 
 </div>
+
+<!-- ═══════════════ END HERO ═══════════════ -->
+
 
 
 ## 🚀 About Me
