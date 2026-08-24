@@ -1,32 +1,29 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=1200&color=00BFFF&center=true&vCenter=true&width=850&height=70&lines=%F0%9F%91%8B+Hi%2C+I'm+Omm+Prakash+Pradhan;Welcome+to+my+GitHub+%F0%9F%9A%80;I+Build+%26+Experiment+with+AI+%F0%9F%A4%96" alt="Animated Introduction" />
+<!-- Premium animated title -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=👋%20Hi,%20I'm%20Omm%20Prakash%20Pradhan&fontSize=38&fontAlignY=50&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20B.Tech%20CSE%20Student&descSize=18&descAlignY=78&descColor=C9D1D9&width=1100&height=150" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=900&color=A855F7&center=true&vCenter=true&width=850&height=45&lines=%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+AI+Enthusiast;%F0%9F%8E%93+B.Tech+CSE+Student;%F0%9F%9A%80+Building+Real-World+Applications" alt="Animated Roles" />
+<!-- Interactive-looking role cards -->
+<a href="#">
+<img src="https://img.shields.io/badge/💻_FULL--STACK_DEVELOPER-0D1117?style=for-the-badge&logoColor=58A6FF" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="#">
+<img src="https://img.shields.io/badge/🤖_AI_ENTHUSIAST-0D1117?style=for-the-badge&logoColor=A855F7" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="#">
+<img src="https://img.shields.io/badge/🎓_B.TECH_CSE_STUDENT-0D1117?style=for-the-badge&logoColor=22C55E" />
+</a>
 
 </div>
-```
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Full-Stack+Web+Developer;Exploring+Generative+AI+%26+Machine+Learning;Turning+Ideas+Into+Real-World+Products" />
-</p>
-
-<p>
-  <a href="https://github.com/ommprakashpradhan77">
-    <img src="https://komarev.com/ghpvc/?username=ommprakashpradhan77&label=Profile%20Views&color=0e75b6&style=flat-square" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-8A2BE2?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-00BFFF?style=flat-square" />
-</p>
-
-</div>
-
-<p align="center"> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/ommprakashpradhan77"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 
 
 ## 🚀 About Me
